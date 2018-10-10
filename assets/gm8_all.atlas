@@ -1,0 +1,2917 @@
+gm8_all.png
+size: 1602, 1428
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Backgrounds/bars
+  rotate: false
+  xy: 1538, 913
+  size: 29, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Backgrounds/clouds
+  rotate: false
+  xy: 766, 777
+  size: 198, 149
+  orig: 200, 150
+  offset: 1, 0
+  index: -1
+Backgrounds/earth
+  rotate: false
+  xy: 1055, 1041
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Backgrounds/lines
+  rotate: false
+  xy: 1341, 1373
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Backgrounds/metal_blue
+  rotate: false
+  xy: 1260, 748
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Backgrounds/metal_dark
+  rotate: false
+  xy: 1326, 748
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Backgrounds/mist
+  rotate: true
+  xy: 387, 922
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Backgrounds/mountains
+  rotate: false
+  xy: 1096, 35
+  size: 400, 97
+  orig: 400, 128
+  offset: 0, 0
+  index: -1
+Backgrounds/plants
+  rotate: false
+  xy: 1569, 740
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Backgrounds/sand
+  rotate: false
+  xy: 1569, 774
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Backgrounds/stone
+  rotate: false
+  xy: 1569, 808
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Backgrounds/Tilesets/pipes
+  rotate: false
+  xy: 1225, 162
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Backgrounds/Tilesets/platform
+  rotate: false
+  xy: 1, 922
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+Backgrounds/Tilesets/railway_strip16
+  rotate: false
+  xy: 1096, 1
+  size: 504, 32
+  orig: 512, 32
+  offset: 4, 0
+  index: -1
+Backgrounds/Tilesets/wall
+  rotate: false
+  xy: 1355, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Backgrounds/Tilesets/wood_large
+  rotate: false
+  xy: 1095, 162
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+Backgrounds/Tilesets/wood_small
+  rotate: false
+  xy: 1381, 264
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+Backgrounds/Tutorial1/wood
+  rotate: false
+  xy: 1381, 386
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Backgrounds/wood
+  rotate: false
+  xy: 1381, 484
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Sprites/Boardgame/bishop_black
+  rotate: true
+  xy: 1089, 1017
+  size: 26, 49
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/bishop_white
+  rotate: true
+  xy: 1089, 1045
+  size: 26, 49
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/king_black
+  rotate: false
+  xy: 1474, 742
+  size: 28, 61
+  orig: 32, 64
+  offset: 2, 0
+  index: -1
+Sprites/Boardgame/king_white
+  rotate: true
+  xy: 1043, 658
+  size: 28, 61
+  orig: 32, 64
+  offset: 2, 0
+  index: -1
+Sprites/Boardgame/knight_black
+  rotate: true
+  xy: 1109, 708
+  size: 26, 42
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/knight_white
+  rotate: true
+  xy: 1223, 865
+  size: 26, 42
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/pawn_black
+  rotate: true
+  xy: 899, 1358
+  size: 24, 37
+  orig: 32, 64
+  offset: 4, 0
+  index: -1
+Sprites/Boardgame/pawn_white
+  rotate: false
+  xy: 1543, 874
+  size: 24, 37
+  orig: 32, 64
+  offset: 4, 0
+  index: -1
+Sprites/Boardgame/queen_black
+  rotate: false
+  xy: 1056, 1371
+  size: 26, 56
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/queen_white
+  rotate: false
+  xy: 1084, 1371
+  size: 26, 56
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/rook_black
+  rotate: false
+  xy: 1575, 544
+  size: 26, 41
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/rook_white
+  rotate: true
+  xy: 1495, 912
+  size: 26, 41
+  orig: 32, 64
+  offset: 3, 0
+  index: -1
+Sprites/Boardgame/token_black
+  rotate: false
+  xy: 1504, 742
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Boardgame/token_blue
+  rotate: false
+  xy: 1099, 1073
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Boardgame/token_green
+  rotate: false
+  xy: 1099, 1121
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Boardgame/token_red
+  rotate: false
+  xy: 1099, 1169
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Boardgame/token_white
+  rotate: false
+  xy: 1097, 1243
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Boardgame/token_yellow
+  rotate: false
+  xy: 1097, 1291
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Bouncing Balls/ball_basketball
+  rotate: false
+  xy: 1431, 901
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/ball_blue
+  rotate: false
+  xy: 1485, 246
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/ball_pinball
+  rotate: false
+  xy: 1237, 1328
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/ball_purple
+  rotate: false
+  xy: 1582, 1138
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/ball_red
+  rotate: false
+  xy: 1582, 1156
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/ball_soccer
+  rotate: false
+  xy: 1569, 842
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat2_huge
+  rotate: false
+  xy: 1558, 370
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat2_large
+  rotate: false
+  xy: 1539, 500
+  size: 16, 72
+  orig: 16, 72
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat2_small
+  rotate: false
+  xy: 1071, 1193
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat2_special_strip10
+  rotate: false
+  xy: 689, 1250
+  size: 160, 72
+  orig: 160, 72
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat2_tiny
+  rotate: false
+  xy: 1558, 468
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat_huge
+  rotate: false
+  xy: 723, 1410
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat_large
+  rotate: false
+  xy: 821, 1410
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat_small
+  rotate: true
+  xy: 1557, 528
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat_special_strip10
+  rotate: false
+  xy: 1, 1410
+  size: 720, 16
+  orig: 720, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bat_tiny
+  rotate: false
+  xy: 1313, 1291
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/bumper_strip2
+  rotate: true
+  xy: 1055, 976
+  size: 63, 32
+  orig: 64, 32
+  offset: 1, 0
+  index: -1
+Sprites/Bouncing Balls/deflector_fire_left
+  rotate: false
+  xy: 851, 1250
+  size: 46, 72
+  orig: 48, 80
+  offset: 1, 4
+  index: -1
+Sprites/Bouncing Balls/deflector_fire_right
+  rotate: false
+  xy: 899, 1250
+  size: 46, 72
+  orig: 48, 80
+  offset: 1, 4
+  index: -1
+Sprites/Bouncing Balls/deflector_goo_left
+  rotate: true
+  xy: 1261, 540
+  size: 46, 72
+  orig: 48, 80
+  offset: 1, 4
+  index: -1
+Sprites/Bouncing Balls/deflector_goo_right
+  rotate: true
+  xy: 1260, 814
+  size: 46, 72
+  orig: 48, 80
+  offset: 1, 4
+  index: -1
+Sprites/Bouncing Balls/deflector_spark_left
+  rotate: true
+  xy: 1334, 814
+  size: 46, 72
+  orig: 48, 80
+  offset: 1, 4
+  index: -1
+Sprites/Bouncing Balls/deflector_spark_right
+  rotate: false
+  xy: 1426, 742
+  size: 46, 72
+  orig: 48, 80
+  offset: 1, 4
+  index: -1
+Sprites/Bouncing Balls/flipper_fire_left_strip2
+  rotate: true
+  xy: 971, 1085
+  size: 126, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_fire_right_strip2
+  rotate: true
+  xy: 1508, 372
+  size: 126, 48
+  orig: 128, 48
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_goo_left_strip2
+  rotate: true
+  xy: 1111, 580
+  size: 126, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_goo_right_strip2
+  rotate: true
+  xy: 1461, 582
+  size: 126, 48
+  orig: 128, 48
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_left_strip2
+  rotate: true
+  xy: 1068, 748
+  size: 124, 46
+  orig: 128, 48
+  offset: 1, 1
+  index: -1
+Sprites/Bouncing Balls/flipper_old_left_strip2
+  rotate: true
+  xy: 947, 1213
+  size: 126, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_old_right_strip2
+  rotate: true
+  xy: 997, 1243
+  size: 126, 48
+  orig: 128, 48
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_right_strip2
+  rotate: true
+  xy: 1116, 748
+  size: 124, 46
+  orig: 128, 48
+  offset: 3, 1
+  index: -1
+Sprites/Bouncing Balls/flipper_spark_left_strip2
+  rotate: true
+  xy: 1047, 1243
+  size: 126, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_spark_right_strip2
+  rotate: true
+  xy: 1018, 748
+  size: 126, 48
+  orig: 128, 48
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/flipper_white_left_strip2
+  rotate: true
+  xy: 1164, 739
+  size: 124, 46
+  orig: 128, 48
+  offset: 1, 1
+  index: -1
+Sprites/Bouncing Balls/flipper_white_right_strip2
+  rotate: true
+  xy: 1212, 739
+  size: 124, 46
+  orig: 128, 48
+  offset: 3, 1
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_blue_strip5
+  rotate: false
+  xy: 1, 1308
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_green_strip5
+  rotate: true
+  xy: 689, 922
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_orange_strip5
+  rotate: false
+  xy: 1, 1342
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_pink_strip5
+  rotate: true
+  xy: 723, 922
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_purple_strip5
+  rotate: false
+  xy: 1, 1376
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_red_strip5
+  rotate: true
+  xy: 757, 928
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_breaking_yellow_strip5
+  rotate: true
+  xy: 791, 928
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_blue
+  rotate: false
+  xy: 1089, 1217
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_green
+  rotate: false
+  xy: 1408, 875
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_orange
+  rotate: false
+  xy: 1545, 614
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_pink
+  rotate: false
+  xy: 1545, 640
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_purple
+  rotate: false
+  xy: 1545, 666
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_red
+  rotate: true
+  xy: 1469, 816
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_cross_yellow
+  rotate: false
+  xy: 1504, 790
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_blue
+  rotate: true
+  xy: 1543, 816
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_green
+  rotate: true
+  xy: 1469, 874
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_orange
+  rotate: false
+  xy: 1267, 889
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_pink
+  rotate: false
+  xy: 1325, 889
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_purple
+  rotate: true
+  xy: 1145, 1243
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_red
+  rotate: true
+  xy: 1145, 1301
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged1_yellow
+  rotate: true
+  xy: 1139, 1359
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_blue
+  rotate: true
+  xy: 1165, 1359
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_green
+  rotate: false
+  xy: 1150, 893
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_orange
+  rotate: false
+  xy: 1208, 893
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_pink
+  rotate: false
+  xy: 1149, 919
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_purple
+  rotate: false
+  xy: 1207, 919
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_red
+  rotate: false
+  xy: 1149, 945
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged2_yellow
+  rotate: false
+  xy: 1207, 945
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_blue
+  rotate: false
+  xy: 938, 1341
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_green
+  rotate: false
+  xy: 938, 1369
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_orange
+  rotate: false
+  xy: 997, 1371
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_pink
+  rotate: false
+  xy: 1495, 714
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_purple
+  rotate: true
+  xy: 1071, 1075
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_red
+  rotate: true
+  xy: 1071, 1134
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_damaged3_yellow
+  rotate: false
+  xy: 1164, 865
+  size: 57, 26
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_blue
+  rotate: false
+  xy: 1137, 971
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_green
+  rotate: false
+  xy: 1195, 971
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_orange
+  rotate: false
+  xy: 1140, 997
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_pink
+  rotate: false
+  xy: 1140, 1023
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_purple
+  rotate: false
+  xy: 1198, 997
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_red
+  rotate: false
+  xy: 1198, 1023
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_energy_yellow
+  rotate: true
+  xy: 1147, 1073
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_blue
+  rotate: true
+  xy: 1392, 748
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_green
+  rotate: true
+  xy: 1479, 514
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_orange
+  rotate: true
+  xy: 1511, 582
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_pink
+  rotate: true
+  xy: 1511, 648
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_purple
+  rotate: false
+  xy: 1018, 876
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_red
+  rotate: false
+  xy: 1084, 874
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_glow_yellow
+  rotate: true
+  xy: 1055, 910
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_blue
+  rotate: true
+  xy: 1147, 1131
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_green
+  rotate: false
+  xy: 1174, 1049
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_orange
+  rotate: false
+  xy: 1173, 1075
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_pink
+  rotate: false
+  xy: 1173, 1101
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_purple
+  rotate: false
+  xy: 1173, 1127
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_red
+  rotate: false
+  xy: 1173, 1153
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_life_yellow
+  rotate: false
+  xy: 1173, 1179
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_blue
+  rotate: false
+  xy: 1173, 1205
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_green
+  rotate: false
+  xy: 1171, 1231
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_orange
+  rotate: false
+  xy: 1171, 1257
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_pink
+  rotate: false
+  xy: 1171, 1283
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_purple
+  rotate: false
+  xy: 1171, 1309
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_red
+  rotate: true
+  xy: 1191, 1359
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_normal_yellow
+  rotate: true
+  xy: 1217, 1359
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_blue
+  rotate: false
+  xy: 1266, 915
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_green
+  rotate: false
+  xy: 1324, 915
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_orange
+  rotate: false
+  xy: 1265, 941
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_pink
+  rotate: false
+  xy: 1323, 941
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_purple
+  rotate: false
+  xy: 1265, 967
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_red
+  rotate: false
+  xy: 1323, 967
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_nuclear_yellow
+  rotate: false
+  xy: 1256, 993
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_blue
+  rotate: false
+  xy: 1256, 1019
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_green
+  rotate: false
+  xy: 1314, 993
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_orange
+  rotate: false
+  xy: 1314, 1019
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_pink
+  rotate: false
+  xy: 1256, 1045
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_purple
+  rotate: false
+  xy: 1314, 1045
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_red
+  rotate: true
+  xy: 1231, 1082
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_plastic_yellow
+  rotate: true
+  xy: 1231, 1140
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_blue
+  rotate: true
+  xy: 1576, 370
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_green
+  rotate: true
+  xy: 1576, 428
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_orange
+  rotate: true
+  xy: 1112, 1371
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_pink
+  rotate: true
+  xy: 1576, 486
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_purple
+  rotate: false
+  xy: 1267, 862
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_red
+  rotate: false
+  xy: 1325, 862
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_skull_yellow
+  rotate: false
+  xy: 1545, 587
+  size: 56, 25
+  orig: 64, 32
+  offset: 4, 3
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_blue
+  rotate: false
+  xy: 1257, 1071
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_green
+  rotate: false
+  xy: 1257, 1097
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_orange
+  rotate: false
+  xy: 1257, 1123
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_pink
+  rotate: true
+  xy: 1315, 1071
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_purple
+  rotate: false
+  xy: 1257, 1149
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_red
+  rotate: true
+  xy: 1341, 1071
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_smile_yellow
+  rotate: false
+  xy: 1257, 1175
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_blue
+  rotate: true
+  xy: 1315, 1129
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_green
+  rotate: true
+  xy: 1341, 1129
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_orange
+  rotate: true
+  xy: 1372, 993
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_pink
+  rotate: false
+  xy: 1315, 1187
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_purple
+  rotate: true
+  xy: 1367, 1071
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_red
+  rotate: true
+  xy: 1367, 1129
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_spots_yellow
+  rotate: true
+  xy: 1393, 1071
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_blue
+  rotate: true
+  xy: 1393, 1129
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_green
+  rotate: false
+  xy: 1373, 1187
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_orange
+  rotate: true
+  xy: 1231, 1198
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_pink
+  rotate: false
+  xy: 1257, 1201
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_purple
+  rotate: false
+  xy: 1257, 1227
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_red
+  rotate: false
+  xy: 1315, 1213
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_transparent_yellow
+  rotate: false
+  xy: 1373, 1213
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_blue
+  rotate: true
+  xy: 1229, 1256
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_green
+  rotate: false
+  xy: 1315, 1239
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_orange
+  rotate: false
+  xy: 1373, 1239
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_pink
+  rotate: false
+  xy: 1257, 1253
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_purple
+  rotate: false
+  xy: 1255, 1279
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_red
+  rotate: false
+  xy: 1315, 1265
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Bouncing Balls/Stones/stone_void_yellow
+  rotate: false
+  xy: 1373, 1265
+  size: 56, 24
+  orig: 64, 32
+  offset: 4, 4
+  index: -1
+Sprites/Buttons/button_back
+  rotate: true
+  xy: 1005, 923
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_empty
+  rotate: true
+  xy: 1508, 212
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_help
+  rotate: true
+  xy: 1021, 1083
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_info
+  rotate: true
+  xy: 1161, 579
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_load
+  rotate: true
+  xy: 1211, 579
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_play
+  rotate: true
+  xy: 1261, 588
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_quit
+  rotate: true
+  xy: 1311, 588
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/button_save
+  rotate: true
+  xy: 1361, 588
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Buttons/buttonsmall_empty
+  rotate: true
+  xy: 1513, 500
+  size: 80, 24
+  orig: 80, 24
+  offset: 0, 0
+  index: -1
+Sprites/Buttons/loading
+  rotate: true
+  xy: 1411, 582
+  size: 158, 48
+  orig: 160, 48
+  offset: 1, 0
+  index: -1
+Sprites/Cards/backs_strip10
+  rotate: false
+  xy: 1, 1
+  size: 1093, 143
+  orig: 1100, 150
+  offset: 5, 2
+  index: -1
+Sprites/Cards/empty
+  rotate: false
+  xy: 1498, 35
+  size: 103, 143
+  orig: 110, 150
+  offset: 5, 2
+  index: -1
+Sprites/Cards/symbols_strip7
+  rotate: false
+  xy: 1, 777
+  size: 763, 143
+  orig: 770, 150
+  offset: 5, 2
+  index: -1
+Sprites/Icons/cross.ico
+  rotate: false
+  xy: 1013, 688
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Icons/energy.ico
+  rotate: false
+  xy: 1061, 688
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Icons/life.ico
+  rotate: false
+  xy: 1554, 692
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Icons/nuclear.ico
+  rotate: false
+  xy: 1495, 816
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Icons/skull.ico
+  rotate: false
+  xy: 1089, 968
+  size: 46, 47
+  orig: 48, 48
+  offset: 1, 0
+  index: -1
+Sprites/Icons/smile.ico
+  rotate: false
+  xy: 1495, 864
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+Sprites/Maze - Platform/apple
+  rotate: false
+  xy: 1415, 1291
+  size: 28, 30
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+Sprites/Maze - Platform/arrow_down
+  rotate: false
+  xy: 1335, 536
+  size: 10, 32
+  orig: 32, 32
+  offset: 11, 0
+  index: -1
+Sprites/Maze - Platform/arrow_left
+  rotate: false
+  xy: 1013, 736
+  size: 32, 10
+  orig: 32, 32
+  offset: 0, 11
+  index: -1
+Sprites/Maze - Platform/arrow_right
+  rotate: false
+  xy: 1047, 736
+  size: 32, 10
+  orig: 32, 32
+  offset: 0, 11
+  index: -1
+Sprites/Maze - Platform/arrow_up
+  rotate: false
+  xy: 926, 1324
+  size: 10, 32
+  orig: 32, 32
+  offset: 11, 0
+  index: -1
+Sprites/Maze - Platform/banana
+  rotate: false
+  xy: 1552, 742
+  size: 15, 32
+  orig: 32, 32
+  offset: 9, 0
+  index: -1
+Sprites/Maze - Platform/bomb
+  rotate: false
+  xy: 1415, 1323
+  size: 28, 31
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+Sprites/Maze - Platform/book_blue
+  rotate: false
+  xy: 1415, 1356
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/book_gold
+  rotate: false
+  xy: 1462, 1010
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/book_green
+  rotate: false
+  xy: 1555, 1215
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/book_red
+  rotate: false
+  xy: 1465, 1270
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/book_white
+  rotate: false
+  xy: 1448, 1356
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/boulder
+  rotate: false
+  xy: 1255, 1305
+  size: 32, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/bow
+  rotate: false
+  xy: 1383, 896
+  size: 13, 32
+  orig: 32, 32
+  offset: 3, 0
+  index: -1
+Sprites/Maze - Platform/bullet_down
+  rotate: false
+  xy: 1089, 1193
+  size: 8, 13
+  orig: 32, 32
+  offset: 12, 10
+  index: -1
+Sprites/Maze - Platform/bullet_left
+  rotate: false
+  xy: 1095, 392
+  size: 13, 8
+  orig: 32, 32
+  offset: 10, 12
+  index: -1
+Sprites/Maze - Platform/bullet_right
+  rotate: true
+  xy: 1017, 396
+  size: 13, 8
+  orig: 32, 32
+  offset: 9, 12
+  index: -1
+Sprites/Maze - Platform/bullet_up
+  rotate: false
+  xy: 1017, 381
+  size: 8, 13
+  orig: 32, 32
+  offset: 12, 9
+  index: -1
+Sprites/Maze - Platform/burger
+  rotate: false
+  xy: 1347, 1291
+  size: 32, 26
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+Sprites/Maze - Platform/button
+  rotate: false
+  xy: 1545, 578
+  size: 24, 7
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/button_pressed
+  rotate: true
+  xy: 1562, 776
+  size: 24, 5
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/cherry
+  rotate: true
+  xy: 1381, 1291
+  size: 29, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/chest_closed
+  rotate: false
+  xy: 939, 1186
+  size: 30, 25
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/chest_lock_closed
+  rotate: false
+  xy: 1571, 1364
+  size: 30, 25
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/chest_lock_open
+  rotate: false
+  xy: 1465, 1237
+  size: 31, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/chest_open
+  rotate: false
+  xy: 1498, 1267
+  size: 31, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/chest_reinforced_closed
+  rotate: true
+  xy: 1538, 1366
+  size: 30, 25
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/chest_reinforced_open
+  rotate: false
+  xy: 1445, 1301
+  size: 31, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/chocolatebar
+  rotate: false
+  xy: 1243, 1406
+  size: 32, 21
+  orig: 32, 32
+  offset: 0, 7
+  index: -1
+Sprites/Maze - Platform/coin1
+  rotate: false
+  xy: 1225, 292
+  size: 18, 18
+  orig: 32, 32
+  offset: 7, 7
+  index: -1
+Sprites/Maze - Platform/coin1_sparkle_strip32
+  rotate: false
+  xy: 1, 678
+  size: 1010, 31
+  orig: 1024, 32
+  offset: 7, 0
+  index: -1
+Sprites/Maze - Platform/coin2
+  rotate: false
+  xy: 1147, 1223
+  size: 18, 18
+  orig: 32, 32
+  offset: 7, 7
+  index: -1
+Sprites/Maze - Platform/coin2_sparkle_strip32
+  rotate: false
+  xy: 1, 711
+  size: 1010, 31
+  orig: 1024, 32
+  offset: 7, 0
+  index: -1
+Sprites/Maze - Platform/detonator_off
+  rotate: true
+  xy: 1171, 1335
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/detonator_on
+  rotate: false
+  xy: 997, 1213
+  size: 22, 24
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/diamond
+  rotate: true
+  xy: 997, 748
+  size: 22, 19
+  orig: 32, 32
+  offset: 5, 6
+  index: -1
+Sprites/Maze - Platform/diamond_sparkle_strip32
+  rotate: false
+  xy: 1, 381
+  size: 1014, 31
+  orig: 1024, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/doors
+  rotate: false
+  xy: 1307, 1373
+  size: 32, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/dynamite
+  rotate: true
+  xy: 1383, 862
+  size: 32, 23
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/dynamite_pack
+  rotate: false
+  xy: 895, 1410
+  size: 31, 17
+  orig: 32, 32
+  offset: 0, 6
+  index: -1
+Sprites/Maze - Platform/exitsign
+  rotate: false
+  xy: 1509, 1388
+  size: 27, 26
+  orig: 32, 32
+  offset: 2, 2
+  index: -1
+Sprites/Maze - Platform/explorer_climb_strip8
+  rotate: true
+  xy: 1027, 146
+  size: 254, 32
+  orig: 256, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explorer_down_strip8
+  rotate: true
+  xy: 1061, 146
+  size: 254, 32
+  orig: 256, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explorer_jumpleft
+  rotate: true
+  xy: 1461, 710
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explorer_jumpright
+  rotate: true
+  xy: 928, 1397
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explorer_left_strip8
+  rotate: true
+  xy: 1043, 402
+  size: 254, 32
+  orig: 256, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explorer_right_strip8
+  rotate: true
+  xy: 1077, 402
+  size: 254, 32
+  orig: 256, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explorer_up_strip8
+  rotate: true
+  xy: 1111, 324
+  size: 254, 32
+  orig: 256, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/explosion_strip7
+  rotate: true
+  xy: 1347, 292
+  size: 212, 32
+  orig: 224, 32
+  offset: 10, 0
+  index: -1
+Sprites/Maze - Platform/fire_glow_strip5
+  rotate: true
+  xy: 971, 923
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/fire_strip5
+  rotate: true
+  xy: 1558, 212
+  size: 156, 30
+  orig: 160, 32
+  offset: 2, 2
+  index: -1
+Sprites/Maze - Platform/fireball_down_strip8
+  rotate: true
+  xy: 1179, 324
+  size: 252, 32
+  orig: 256, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/fireball_left_strip8
+  rotate: true
+  xy: 939, 928
+  size: 256, 30
+  orig: 256, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/fireball_right_strip8
+  rotate: true
+  xy: 1213, 324
+  size: 253, 30
+  orig: 256, 32
+  offset: 3, 1
+  index: -1
+Sprites/Maze - Platform/fireball_up_strip8
+  rotate: true
+  xy: 1145, 324
+  size: 253, 32
+  orig: 256, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/flask_blue
+  rotate: true
+  xy: 996, 1399
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/flask_empty
+  rotate: true
+  xy: 1313, 1309
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/flask_green
+  rotate: true
+  xy: 1347, 1319
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/flask_purple
+  rotate: true
+  xy: 1381, 1322
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/flask_red
+  rotate: true
+  xy: 1495, 940
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/flask_yellow
+  rotate: true
+  xy: 1529, 947
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/gem_blue
+  rotate: true
+  xy: 1345, 1406
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_blue_sparkle_strip32
+  rotate: false
+  xy: 1, 414
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gem_dark
+  rotate: false
+  xy: 1465, 1207
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_dark_sparkle_strip32
+  rotate: false
+  xy: 1, 447
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gem_green
+  rotate: false
+  xy: 1498, 1237
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_green_sparkle_strip32
+  rotate: false
+  xy: 1, 480
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gem_light
+  rotate: false
+  xy: 1531, 1267
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_light_sparkle_strip32
+  rotate: false
+  xy: 1, 513
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gem_purple
+  rotate: true
+  xy: 1445, 1334
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_purple_sparkle_strip32
+  rotate: false
+  xy: 1, 546
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gem_red
+  rotate: true
+  xy: 1475, 1334
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_red_sparkle_strip32
+  rotate: false
+  xy: 1, 579
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gem_yellow
+  rotate: true
+  xy: 1508, 1366
+  size: 20, 28
+  orig: 32, 32
+  offset: 6, 2
+  index: -1
+Sprites/Maze - Platform/gem_yellow_sparkle_strip32
+  rotate: false
+  xy: 1, 612
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/ghost
+  rotate: true
+  xy: 1140, 1049
+  size: 22, 32
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/ghost_floating_strip8
+  rotate: true
+  xy: 1245, 292
+  size: 246, 32
+  orig: 256, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/gold_bar
+  rotate: false
+  xy: 1465, 1175
+  size: 20, 30
+  orig: 32, 32
+  offset: 6, 1
+  index: -1
+Sprites/Maze - Platform/gold_bar_sparkle_strip32
+  rotate: false
+  xy: 1, 645
+  size: 1012, 31
+  orig: 1024, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/gold_nuggets
+  rotate: false
+  xy: 1406, 1041
+  size: 31, 28
+  orig: 32, 32
+  offset: 0, 3
+  index: -1
+Sprites/Maze - Platform/gold_nuggets_sparkle_strip32
+  rotate: false
+  xy: 1, 348
+  size: 1023, 31
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/gun
+  rotate: true
+  xy: 1582, 1113
+  size: 23, 15
+  orig: 32, 32
+  offset: 4, 7
+  index: -1
+Sprites/Maze - Platform/impact_flesh_strip6
+  rotate: true
+  xy: 1479, 264
+  size: 182, 27
+  orig: 192, 32
+  offset: 10, 1
+  index: -1
+Sprites/Maze - Platform/impact_stone_strip4
+  rotate: false
+  xy: 1485, 180
+  size: 116, 30
+  orig: 128, 32
+  offset: 11, 1
+  index: -1
+Sprites/Maze - Platform/item_cross
+  rotate: false
+  xy: 1030, 1399
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+Sprites/Maze - Platform/item_energy
+  rotate: false
+  xy: 1469, 932
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+Sprites/Maze - Platform/item_life
+  rotate: false
+  xy: 1469, 958
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+Sprites/Maze - Platform/item_nuclear
+  rotate: false
+  xy: 1469, 984
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+Sprites/Maze - Platform/item_skull
+  rotate: false
+  xy: 1355, 264
+  size: 24, 25
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+Sprites/Maze - Platform/item_smile
+  rotate: false
+  xy: 1381, 941
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+Sprites/Maze - Platform/item_void
+  rotate: false
+  xy: 1381, 967
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 4
+  index: -1
+Sprites/Maze - Platform/key_black
+  rotate: true
+  xy: 1095, 324
+  size: 32, 13
+  orig: 32, 32
+  offset: 0, 10
+  index: -1
+Sprites/Maze - Platform/key_copper
+  rotate: true
+  xy: 1245, 540
+  size: 32, 13
+  orig: 32, 32
+  offset: 0, 10
+  index: -1
+Sprites/Maze - Platform/key_gold
+  rotate: true
+  xy: 1095, 358
+  size: 32, 13
+  orig: 32, 32
+  offset: 0, 10
+  index: -1
+Sprites/Maze - Platform/key_gold_sparkle_strip32
+  rotate: false
+  xy: 1, 282
+  size: 1024, 31
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/key_magic
+  rotate: false
+  xy: 1495, 970
+  size: 32, 13
+  orig: 32, 32
+  offset: 0, 10
+  index: -1
+Sprites/Maze - Platform/key_silver
+  rotate: false
+  xy: 1529, 977
+  size: 32, 13
+  orig: 32, 32
+  offset: 0, 10
+  index: -1
+Sprites/Maze - Platform/key_silver_sparkle_strip32
+  rotate: false
+  xy: 1, 315
+  size: 1024, 31
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lava_strip12
+  rotate: true
+  xy: 921, 928
+  size: 288, 16
+  orig: 288, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_black
+  rotate: false
+  xy: 1569, 876
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_copper
+  rotate: false
+  xy: 1569, 910
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_gold
+  rotate: false
+  xy: 1569, 944
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_gold_sparkle_strip32
+  rotate: false
+  xy: 1, 146
+  size: 1024, 32
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_magic
+  rotate: false
+  xy: 1563, 978
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_silver
+  rotate: false
+  xy: 1255, 1338
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/lock_silver_sparkle_strip32
+  rotate: false
+  xy: 1, 180
+  size: 1024, 32
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/npc_boy
+  rotate: true
+  xy: 1347, 1349
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/npc_darkguy
+  rotate: true
+  xy: 1381, 1352
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/npc_doctor
+  rotate: false
+  xy: 1277, 1372
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/npc_explorergirl
+  rotate: true
+  xy: 1487, 1209
+  size: 26, 32
+  orig: 32, 32
+  offset: 3, 0
+  index: -1
+Sprites/Maze - Platform/npc_girl
+  rotate: true
+  xy: 1520, 1239
+  size: 26, 32
+  orig: 32, 32
+  offset: 3, 0
+  index: -1
+Sprites/Maze - Platform/npc_guy
+  rotate: true
+  xy: 1409, 1387
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/npc_oldman
+  rotate: false
+  xy: 1432, 1007
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/padlock_black
+  rotate: false
+  xy: 1313, 1339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/padlock_copper
+  rotate: false
+  xy: 1243, 1372
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/padlock_gold
+  rotate: false
+  xy: 1375, 1382
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/padlock_gold_sparkle_strip32
+  rotate: false
+  xy: 1, 214
+  size: 1024, 32
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/padlock_magic
+  rotate: false
+  xy: 1398, 1007
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/padlock_silver
+  rotate: false
+  xy: 1495, 1013
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/padlock_silver_sparkle_strip32
+  rotate: false
+  xy: 1, 248
+  size: 1024, 32
+  orig: 1024, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/pear
+  rotate: false
+  xy: 1473, 1041
+  size: 20, 32
+  orig: 32, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/pineapple
+  rotate: false
+  xy: 1147, 1189
+  size: 24, 32
+  orig: 32, 32
+  offset: 4, 0
+  index: -1
+Sprites/Maze - Platform/platform
+  rotate: false
+  xy: 321, 1308
+  size: 48, 14
+  orig: 48, 24
+  offset: 0, 10
+  index: -1
+Sprites/Maze - Platform/pointer_down
+  rotate: false
+  xy: 1478, 1301
+  size: 28, 31
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/pointer_left
+  rotate: false
+  xy: 1443, 1387
+  size: 31, 28
+  orig: 32, 32
+  offset: 0, 2
+  index: -1
+Sprites/Maze - Platform/pointer_right
+  rotate: false
+  xy: 1476, 1388
+  size: 31, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+Sprites/Maze - Platform/pointer_up
+  rotate: false
+  xy: 1508, 1300
+  size: 28, 31
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+Sprites/Maze - Platform/potion_blue
+  rotate: true
+  xy: 1204, 1335
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/potion_dark
+  rotate: false
+  xy: 1232, 1049
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/potion_green
+  rotate: false
+  xy: 1289, 1305
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/potion_light
+  rotate: false
+  xy: 1445, 939
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/potion_purple
+  rotate: false
+  xy: 1289, 1338
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/potion_red
+  rotate: false
+  xy: 1445, 972
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/potion_yellow
+  rotate: false
+  xy: 1470, 1075
+  size: 22, 31
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/rifle
+  rotate: false
+  xy: 1439, 1041
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/rock
+  rotate: false
+  xy: 1453, 1142
+  size: 32, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_closed_black
+  rotate: false
+  xy: 1341, 1379
+  size: 32, 25
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_closed_blue
+  rotate: false
+  xy: 1529, 1054
+  size: 32, 25
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_closed_green
+  rotate: false
+  xy: 1521, 1212
+  size: 32, 25
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_closed_purple
+  rotate: true
+  xy: 1555, 1113
+  size: 32, 25
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_closed_red
+  rotate: true
+  xy: 1555, 1147
+  size: 32, 25
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_closed_yellow
+  rotate: true
+  xy: 1555, 1181
+  size: 32, 25
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_opened_black
+  rotate: true
+  xy: 962, 1397
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_opened_blue
+  rotate: true
+  xy: 1097, 1339
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_opened_green
+  rotate: true
+  xy: 1495, 1047
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_opened_purple
+  rotate: true
+  xy: 1436, 1075
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_opened_red
+  rotate: true
+  xy: 1494, 1079
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/scroll_opened_yellow
+  rotate: true
+  xy: 1528, 1081
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/skeleton
+  rotate: true
+  xy: 1487, 1145
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/skeleton_walking_strip10
+  rotate: true
+  xy: 825, 928
+  size: 318, 32
+  orig: 320, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/sparkle_strip32
+  rotate: false
+  xy: 1, 744
+  size: 994, 31
+  orig: 1024, 32
+  offset: 21, 0
+  index: -1
+Sprites/Maze - Platform/spider_down_strip8
+  rotate: false
+  xy: 1096, 134
+  size: 256, 26
+  orig: 256, 32
+  offset: 0, 2
+  index: -1
+Sprites/Maze - Platform/spider_left_strip8
+  rotate: true
+  xy: 1313, 292
+  size: 242, 32
+  orig: 256, 32
+  offset: 7, 0
+  index: -1
+Sprites/Maze - Platform/spider_right_strip8
+  rotate: true
+  xy: 1279, 292
+  size: 243, 32
+  orig: 256, 32
+  offset: 7, 0
+  index: -1
+Sprites/Maze - Platform/spider_up_strip8
+  rotate: true
+  xy: 1015, 414
+  size: 256, 26
+  orig: 256, 32
+  offset: 0, 4
+  index: -1
+Sprites/Maze - Platform/spikes_strip52
+  rotate: false
+  xy: 321, 1324
+  size: 603, 32
+  orig: 1664, 32
+  offset: 3, 0
+  index: -1
+Sprites/Maze - Platform/spring
+  rotate: false
+  xy: 1229, 1314
+  size: 24, 12
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/spring_strip7
+  rotate: false
+  xy: 611, 1384
+  size: 168, 24
+  orig: 168, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/statue1
+  rotate: true
+  xy: 1521, 1147
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/statue1_angry
+  rotate: true
+  xy: 1487, 1177
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Maze - Platform/statue2
+  rotate: false
+  xy: 1419, 939
+  size: 24, 32
+  orig: 32, 32
+  offset: 4, 0
+  index: -1
+Sprites/Maze - Platform/strawberry
+  rotate: false
+  xy: 921, 1218
+  size: 24, 30
+  orig: 32, 32
+  offset: 4, 2
+  index: -1
+Sprites/Maze - Platform/switch_off
+  rotate: false
+  xy: 1562, 1081
+  size: 25, 30
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+Sprites/Maze - Platform/switch_on
+  rotate: false
+  xy: 1481, 1356
+  size: 25, 30
+  orig: 32, 32
+  offset: 5, 0
+  index: -1
+Sprites/Maze - Platform/sword_advanced
+  rotate: false
+  xy: 1485, 212
+  size: 21, 32
+  orig: 32, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/sword_simple
+  rotate: true
+  xy: 1277, 1406
+  size: 21, 32
+  orig: 32, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/sword_wooden
+  rotate: true
+  xy: 1311, 1406
+  size: 21, 32
+  orig: 32, 32
+  offset: 6, 0
+  index: -1
+Sprites/Maze - Platform/text_empty
+  rotate: false
+  xy: 1495, 985
+  size: 32, 26
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/text_help
+  rotate: false
+  xy: 1529, 992
+  size: 32, 26
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+Sprites/Maze - Platform/wall_block
+  rotate: false
+  xy: 1529, 1020
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wall_block_cracked1
+  rotate: false
+  xy: 1563, 1012
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wall_block_cracked2
+  rotate: false
+  xy: 1563, 1046
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wall_block_cracked3
+  rotate: false
+  xy: 1419, 1107
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wall_block_cracked4
+  rotate: false
+  xy: 1419, 1141
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wall_block_small
+  rotate: false
+  xy: 1538, 1398
+  size: 26, 26
+  orig: 32, 32
+  offset: 3, 3
+  index: -1
+Sprites/Maze - Platform/wall_wood_damaged_horizontal
+  rotate: false
+  xy: 1554, 1246
+  size: 32, 24
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+Sprites/Maze - Platform/wall_wood_damaged_vertical
+  rotate: false
+  xy: 1419, 973
+  size: 24, 32
+  orig: 32, 32
+  offset: 4, 0
+  index: -1
+Sprites/Maze - Platform/wall_wood_destroyed_horizontal
+  rotate: false
+  xy: 1521, 1179
+  size: 32, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wall_wood_destroyed_vertical
+  rotate: false
+  xy: 1398, 901
+  size: 31, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/wand
+  rotate: true
+  xy: 1081, 736
+  size: 10, 32
+  orig: 32, 32
+  offset: 10, 0
+  index: -1
+Sprites/Maze - Platform/water_flow_strip24
+  rotate: false
+  xy: 321, 1358
+  size: 576, 24
+  orig: 576, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/water_strip12
+  rotate: false
+  xy: 321, 1384
+  size: 288, 24
+  orig: 288, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/waterfall_disappear_strip6
+  rotate: true
+  xy: 966, 777
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/waterfall_strip6
+  rotate: true
+  xy: 992, 777
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/watersource_rock_strip6
+  rotate: false
+  xy: 781, 1384
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+Sprites/Maze - Platform/woodblock
+  rotate: true
+  xy: 1557, 502
+  size: 24, 17
+  orig: 24, 24
+  offset: 0, 7
+  index: -1
+Sprites/Space/alien_green_strip8
+  rotate: true
+  xy: 859, 928
+  size: 320, 29
+  orig: 320, 32
+  offset: 0, 1
+  index: -1
+Sprites/Space/alien_purple_strip8
+  rotate: true
+  xy: 890, 928
+  size: 320, 29
+  orig: 320, 32
+  offset: 0, 1
+  index: -1
+Sprites/Space/lazer_blue
+  rotate: true
+  xy: 1485, 134
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+Sprites/Space/lazer_green
+  rotate: true
+  xy: 1590, 212
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+Sprites/Space/lazer_red
+  rotate: false
+  xy: 1018, 910
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+Sprites/Space/lazer_yellow
+  rotate: false
+  xy: 1115, 736
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+Sprites/Space/meteorite_large1
+  rotate: true
+  xy: 1408, 816
+  size: 57, 59
+  orig: 64, 64
+  offset: 4, 2
+  index: -1
+Sprites/Space/meteorite_large2
+  rotate: false
+  xy: 1089, 908
+  size: 58, 58
+  orig: 64, 64
+  offset: 5, 2
+  index: -1
+Sprites/Space/meteorite_medium1
+  rotate: true
+  xy: 1538, 1303
+  size: 30, 31
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+Sprites/Space/meteorite_medium2
+  rotate: false
+  xy: 1538, 1335
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 2
+  index: -1
+Sprites/Space/meteorite_small1
+  rotate: false
+  xy: 1582, 1174
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/Space/meteorite_small2
+  rotate: false
+  xy: 1582, 1192
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sprites/Space/planet1
+  rotate: false
+  xy: 1453, 1108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Space/planet2
+  rotate: false
+  xy: 1487, 1111
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Space/planet3
+  rotate: false
+  xy: 1521, 1113
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Space/planet3_cloudy
+  rotate: false
+  xy: 1431, 1175
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Space/planet4_cloudy
+  rotate: false
+  xy: 1431, 1209
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprites/Space/rocket
+  rotate: true
+  xy: 1372, 1051
+  size: 18, 32
+  orig: 32, 32
+  offset: 7, 0
+  index: -1
+Sprites/Space/saturn
+  rotate: false
+  xy: 1347, 506
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+Sprites/Space/triangle
+  rotate: false
+  xy: 1571, 1303
+  size: 30, 29
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+Sprites/Space/ufo_simple
+  rotate: true
+  xy: 1479, 448
+  size: 64, 27
+  orig: 64, 32
+  offset: 0, 3
+  index: -1
+Sprites/Tutorial1/apple
+  rotate: true
+  xy: 1571, 1334
+  size: 28, 30
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+Sprites/Tutorial1/banana
+  rotate: false
+  xy: 1419, 1071
+  size: 15, 32
+  orig: 32, 32
+  offset: 9, 0
+  index: -1
+Sprites/Tutorial1/bomb
+  rotate: false
+  xy: 1508, 1333
+  size: 28, 31
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+Sprites/Tutorial1/cherry
+  rotate: true
+  xy: 1553, 1272
+  size: 29, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+Sprites/Tutorial1/strawberry
+  rotate: false
+  xy: 1566, 1391
+  size: 24, 30
+  orig: 32, 32
+  offset: 4, 2
+  index: -1
+Sprites/Tutorial1/wall
+  rotate: false
+  xy: 1431, 1243
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
